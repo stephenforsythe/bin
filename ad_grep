@@ -1,0 +1,2 @@
+grep -rni "$1" * | grep -v .pyc
+
