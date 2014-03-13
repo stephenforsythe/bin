@@ -2,6 +2,7 @@
 
 # Emacs starter for Emacs mac port
 # Thanks to Aquamacs Project and David Reitter
+# test
 
 my $args = "";
 my $tmpfiles = "";
